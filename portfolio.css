@@ -146,7 +146,7 @@ font-weight: 700;
 }
 .download-cv{
     text-align: center;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 50px;
 }
 /* footer style */
@@ -156,9 +156,24 @@ font-weight: 700;
     background-color: #fff8f3;
     margin-top: 100px;
     padding: 130px 200px;
-    gap: 300px;
+    gap: 50px;
     text-align: center;
 }
+
+.footer-colum{
+    width: 50%;
+}
+
 .footer-details{
     padding: 0px;
+}
+.contact{
+    display:block
+}
+
+.contact input,textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color:#757575;
 }
