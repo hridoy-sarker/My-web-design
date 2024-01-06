@@ -139,7 +139,12 @@ font-weight: 700;
 
 .resume-container {
    display: flex;
+   gap: 50px;
 }
 .resume-column{
     padding: 150px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
