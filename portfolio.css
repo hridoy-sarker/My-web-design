@@ -147,4 +147,18 @@ font-weight: 700;
 .download-cv{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 50px;
+}
+/* footer style */
+
+.footer{
+    display: flex;
+    background-color: #fff8f3;
+    margin-top: 100px;
+    padding: 130px 200px;
+    gap: 300px;
+    text-align: center;
+}
+.footer-details{
+    padding: 0px;
 }
